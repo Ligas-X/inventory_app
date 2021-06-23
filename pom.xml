@@ -11,7 +11,8 @@
     <groupId>ru.sg</groupId>
     <artifactId>inventory_app</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>inventory_app</name>
+    <!--<name>inventory_app</name>-->
+    <name>inventory-server-app</name>
     <description>Spring Boot Inventory Application</description>
     <properties>
         <java.version>11</java.version>
@@ -78,6 +79,8 @@
             <artifactId>springfox-boot-starter</artifactId>
             <version>3.0.0</version>
         </dependency>
+
+
 
     </dependencies>
 
